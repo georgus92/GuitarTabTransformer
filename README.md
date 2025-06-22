@@ -1,4 +1,4 @@
-# Improving Guitar Tablature Transcription with Transformer-Based Deep Learning Models
+# Transformer Tablature: Deep Learning for Guitar Transcription
 
 This repository contains all Python modules, training scripts, and utilities needed to reproduce the experiments described in the dissertation. 
 
