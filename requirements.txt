@@ -1,0 +1,19 @@
+# Install with:
+#   pip install --upgrade pip
+#   pip install -r requirements.txt -f https://download.pytorch.org/whl/cu122
+
+numpy==1.26.4
+pandas
+matplotlib
+seaborn
+librosa
+torch==2.1.2
+torchvision==0.16.2
+torchaudio==2.1.2
+jams
+tqdm
+einops
+transformers
+pyyaml
+jupyterlab
+ffmpeg-python   # lightweight wrapper; system FFmpeg binary still required
