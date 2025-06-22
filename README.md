@@ -20,7 +20,7 @@ Key ingredients:
 
 ```
 .
-├── src/                         # importable python package
+├── src/                         
 │   ├── guitar_tab_dataset_loader.py
 │   ├── precomputed_dataset_loader.py
 │   ├── guitar_tab_collate.py
@@ -28,7 +28,7 @@ Key ingredients:
 │   ├── tab_transformer_model.py
 │   ├── tab_transformer_training.py
 │   ├── generate_and_precompute.py   # feature extraction + token generation
-│   ├── train_transformer.py         # one‑liner training entry‑point
+│   ├── train_transformer.py         
 │   ├── evaluate.py                  # load checkpoint & render TAB
 │   ├── guitar_tab_vocab_with_extended_techniques.json
 │   └── note_tab.json               # custom JAMS namespace schema
