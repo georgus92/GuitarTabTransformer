@@ -1,6 +1,6 @@
 # Improving Guitar Tablature Transcription with Transformer-Based Deep Learning Models
 
-This repository contains all Python modules, training scripts, and utilities needed to reproduce the experiments described in the dissertation. Everything is organised as a *pure‑Python* package inside `src/`, plus a thin layer of command‑line helpers in `scripts/`.
+This repository contains all Python modules, training scripts, and utilities needed to reproduce the experiments described in the dissertation. 
 
 ---
 
