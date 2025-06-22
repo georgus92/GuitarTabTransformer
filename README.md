@@ -9,7 +9,7 @@ This repository contains all Python modules, training scripts, and utilities nee
 The goal is to translate polyphonic guitar audio into human‑readable tablature with expressive technique annotations.  
 Key ingredients:
 
-* **Dataset** – [SynthTab](https://github.com/yongyizang/SynthTab) (subset used for storage constraints)  
+* **Dataset** – [SynthTab](https://synthtab.dev/) (subset used for storage constraints)  
 * **Input** – Constant‑Q Transform (CQT) spectrograms (84 bins, 512‑hop, 16 kHz)  
 * **Model** – Custom Transformer encoder‑decoder (≈ 9 M params) implemented in PyTorch  
 * **Output tokens** – `(string, fret, duration, technique)` tuples covering bends, slides, hammer‑ons, etc.  
